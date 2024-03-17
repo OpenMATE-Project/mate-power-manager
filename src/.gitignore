@@ -1,0 +1,13 @@
+*.a
+*.o
+.deps
+gnome-power-manager
+gnome-power-preferences
+gnome-power-statistics
+gnome-power-self-test
+gnome-power-backlight-helper
+gpm-marshal.c
+gpm-marshal.h
+org.gnome.PowerManager.Backlight.h
+org.gnome.PowerManager.h
+
